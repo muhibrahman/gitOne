@@ -1,2 +1,2 @@
 # gitOne
-I try to learn git &amp; github
+I try to learn git &amp; GitHub
